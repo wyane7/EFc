@@ -1,0 +1,12 @@
+D:\rjkfsx\任务6\TinyShop\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\rjkfsx\任务6\TinyShop\Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\rjkfsx\任务6\TinyShop\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+D:\rjkfsx\任务6\TinyShop\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\rjkfsx\任务6\TinyShop\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\rjkfsx\任务6\TinyShop\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+D:\rjkfsx\任务6\TinyShop\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+D:\rjkfsx\任务6\TinyShop\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+D:\rjkfsx\任务6\TinyShop\Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\rjkfsx\任务6\TinyShop\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+D:\rjkfsx\任务6\TinyShop\Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\rjkfsx\任务6\TinyShop\Data\obj\Debug\netcoreapp3.1\Data.pdb

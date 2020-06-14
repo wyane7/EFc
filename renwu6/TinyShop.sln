@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyShop", "TinyShop\TinyShop.csproj", "{5BD8A47C-3C9D-453E-B9B7-C5007A817636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{E415FDCB-74B9-499D-A80B-8A437FA90837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BD8A47C-3C9D-453E-B9B7-C5007A817636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD8A47C-3C9D-453E-B9B7-C5007A817636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD8A47C-3C9D-453E-B9B7-C5007A817636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD8A47C-3C9D-453E-B9B7-C5007A817636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E415FDCB-74B9-499D-A80B-8A437FA90837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E415FDCB-74B9-499D-A80B-8A437FA90837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E415FDCB-74B9-499D-A80B-8A437FA90837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E415FDCB-74B9-499D-A80B-8A437FA90837}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7730BCDC-8B92-43EB-AF62-BF54A2D91BF6}
+	EndGlobalSection
+EndGlobal
